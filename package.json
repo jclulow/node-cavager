@@ -1,0 +1,12 @@
+{
+  "name": "cavager",
+  "description": "cavager!",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "picture-tube": "0.0.4"
+  },
+  "engines": {
+    "node": ">=0.6"
+  }
+}
